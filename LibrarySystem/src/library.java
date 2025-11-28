@@ -34,7 +34,7 @@ public class library {
         
         while (running) {
             System.out.println("\nwelocome to the library customer system");
-            System.out.println("press 0 for add the book\n");
+            System.out.println("press 0 for add the book\npress 1 for Search(not work now)\npress 2 for remove the book(out of order)\n");
             System.out.print("choose your options:");
 
             int models = scanner.nextInt();
